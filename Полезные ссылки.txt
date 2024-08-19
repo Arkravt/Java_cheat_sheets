@@ -1,0 +1,59 @@
+https://www.youtube.com/watch?v=yyLVNUUFFnA
+
+
+Java Core:
+Основы Java:  https://clck.ru/aj6Bc
+Углубленная Java: https://clck.ru/atH8r
+Упражнения:  https://codingbat.com/java (eng), https://habr.com/ru/post/440436/, https://github.com/allicen/Java-1000
+Платный курс: javarush.ru
+
+Книги:
+Начинающий: Изучаем Java, Берт Бейтс и Кэти Сьерра
+Обычный: Философия Java, Брюс Эккель
+Опытный: Java Эффективное программирование, Джошуа Блох; Чистый код, Роберт Мартин; OCP Oracle Certified Professional Java SE 11
+
+Алгоритмы и структуры данных:
+Книги: Грокаем алгоритмы, Бхаргава Адитья; 
+Структуры данных и алгоритмы на Java, Роберт Лафоре
+Упражнения: упражнения из Java Core, codewars.com (eng), https://www.hackerrank.com/domains/al... (eng)
+
+SQL + JDBC
+Видео-курс SQL: https://clck.ru/ZS96v
+Видео-курс SQL 2: https://clck.ru/atHAz
+Упражнения: www.sql-ex.ru, https://sql-academy.org/ru
+Видео-курс JDBC: https://clck.ru/atHBf
+Видео-курс JDBC 2: https://clck.ru/atHC6
+
+HTTP, Servlets
+Java EE для начинающих от alishev: https://clck.ru/atHCL
+
+Maven, Gradle
+Видео-курс Maven: https://clck.ru/atHCW
+Статьи по Maven: https://habr.com/ru/post/77382/, https://clck.ru/atHCe
+Видео-курс Gradle (eng): https://clck.ru/atHCs
+Статьи по Gradle: https://clck.ru/atHDB, http://spring-projects.ru/guides/gradle/ https://clck.ru/atHDQ, https://clck.ru/atHDg
+
+Spring
+Видео-курс по Spring: https://clck.ru/atHDp
+Документация (eng): https://clck.ru/YkRdA
+Статьи: https://clck.ru/atHRj https://habr.com/ru/post/490586/
+
+JPA/Hibernate
+Видео-курс 1: https://clck.ru/atHRw
+Видео-курс 2: https://clck.ru/atHS8
+Статьи: 
+https://easyjava.ru/data/jpa/, https://clck.ru/atHSQ , https://www.baeldung.com/learn-jpa-hi... (eng)
+
+Тесты
+Статьи по JUnit: 
+https://javarush.ru/groups/posts/605-..., https://habr.com/ru/company/otus/blog..., https://habr.com/ru/post/120101/
+Видео:
+https://clck.ru/atHSq, https://clck.ru/atHTG
+Отличный канал с уроками, кстати ^
+
+Бонус
+Материалы:
+https://javarevisited.blogspot.com/#a..., https://mkyong.com/, https://tproger.ru/digest/java/, https://clck.ru/atHTb , https://habr.com/ru/post/132241/, https://www.baeldung.com/, https://habr.com/ru/company/jugru/blo..., https://github.com/akullpp/awesome-java, https://habr.com/ru/company/luxoft/bl...,
+
+Статьи: 
+https://proglib.io/p/algorithms-struc..., https://clck.ru/atHTt, https://proglib.io/p/8-good-habits, https://proglib.io/p/open-source-for-..., https://tproger.ru/translations/where...
